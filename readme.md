@@ -2,8 +2,6 @@
 
 
 
-https://github.com/user-attachments/assets/95c4b2b5-995b-4fb4-9adf-b8df6e3b1b3f
-
 
 ## 📌 Overview
 **OrthoAssist** is an **MCP-based platform** where X-rays meet artificial intelligence to transform orthopedic care.  
