@@ -3,6 +3,10 @@
 
 
 
+https://github.com/user-attachments/assets/c8d33fb9-4b9f-435d-a30a-d50aae91d63b
+
+
+
 ## 📌 Overview
 **OrthoAssist** is an **MCP-based platform** where X-rays meet artificial intelligence to transform orthopedic care.  
 It enables doctors, health workers, and patients to **analyze musculoskeletal X-rays in real-time**, detect fractures, classify their severity, and generate **easy-to-understand medical reports** within minutes.
